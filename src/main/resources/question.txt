@@ -1,0 +1,36 @@
+[
+	{
+    	
+			"questionId":1,
+	    	"questionString":"Select anyone of the following options for screen type :",
+	        "options": {
+	            "1": "touch",
+	            "2": "nontouch",
+	            "3": "does not matter"
+	        }
+	},
+    {
+        
+	    	"questionId":2,
+	    	"questionString":"What screen size do you want ?",
+	        "options": {
+	            "1": "Does Not matter",
+	            "9": "For 9 screenSize",
+	            "10": "For 10 screenSize",
+	            "12": "For 12 screenSize",
+	            "14": "For 14 screenSize",
+	            "15": "For 15 screenSize"
+	        }
+        
+    },
+    {
+	    	"questionId":0,
+	    	"questionString":"How would you like to continue ?",
+	        "options": {
+	            "1": "Exit and contact with a sales Person",
+	            "2": "Continue Searching"
+        	}
+        
+    }
+    
+]
